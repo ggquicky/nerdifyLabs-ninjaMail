@@ -665,12 +665,7 @@ line-height: 15px;
         font-size: 13px;
     line-height: 15px;
     }
-    .footer {
-        display: flex;
-        flex-direction: row;
-        column-gap: 100px;
-        padding: 0px 16px;
-    }
+   
 
     .footerLogoText{
         font-size: 16px;
